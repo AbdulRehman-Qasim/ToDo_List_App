@@ -45,7 +45,7 @@ This makes it easier to maintain, debug, and possibly integrate with backend API
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/your-username/task-list-app.git
+git clone [https://github.com/your-username/task-list-app](https://github.com/AbdulRehman-Qasim/ToDo_List_App/).git
 
 
 ### 2. Open the app
@@ -56,7 +56,7 @@ Just open the `index.html` file in your browser to use the app.
 
 ## 🧪 Demo
 
-[Click here to view demo](#) <!-- Add live link if deployed -->
+[Click here to view demo]([#](https://todo-list-app-beige-rho.vercel.app/)) 
 
 ---
 
